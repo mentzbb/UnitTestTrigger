@@ -34,7 +34,7 @@ Ensure you have installed the [MENTZ sfdx plugin](https://www.npmjs.com/package/
 
 Execute the following command: 
 
-`sfdx mentz:publish -c "<comment>" -f <solution_filename> -u <username>`
+`sfdx mentz:publish -c "<comment>" -f force-app/main/default/classes/LeadUtils_Test.cls -u <username>`
 
 Parameters:
 
