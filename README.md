@@ -1,4 +1,4 @@
-# Simple Data Manipulation Language 1 Mentz Challenge
+# Unit Test Trigger Mentz Challenge
 
 DRAFT CHALLENGE - YOU CAN WORK ON THIS BUT IT MAY CHANGE UNDER YOU
 ## About
